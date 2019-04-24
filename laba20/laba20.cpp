@@ -108,7 +108,7 @@ int getMin(std::vector<int>arr)
 		if (arr[i] < min)
 			min = arr[0];
 
-	int a;
+	int b;
 
 	return min;
 }
